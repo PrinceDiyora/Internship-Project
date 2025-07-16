@@ -1,0 +1,28 @@
+{
+    "order_id": "ORDER_20250715_161737",
+    "timestamp": "2025-07-15T16:17:37.235565",
+    "username": "user",
+    "customer": {
+        "name": "krishnapal",
+        "email": "email",
+        "phone": "12345678",
+        "address": "ehjwh"
+    },
+    "items": [
+        {
+            "id": "301",
+            "name": "FlowerVase",
+            "price": 10.0,
+            "quantity": 8
+        }
+    ],
+    "total": 80.0,
+    "status": "pending",
+    "status_history": [
+        {
+            "status": "pending",
+            "timestamp": "2025-07-15 16:17:37",
+            "notes": "Order created"
+        }
+    ]
+}
